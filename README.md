@@ -1,16 +1,25 @@
 ## Hi there 👋
+I’m Mohammed Faraz, a Computer Science student and aspiring software engineer.
 
-<!--
-**mdfaraz543/mdfaraz543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things that mix logic, data, and real-world impact.
+If an idea feels useful or challenging, I’ll probably try to build it.
 
-Here are some ideas to get you started:
+Right now, I’m focused on machine learning projects, especially in healthcare, and full-stack applications where I handle everything from backend logic to UI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes Java, Python, React, Spring Boot, and Apache Spark.
+I mostly work in VS Code, use Git/GitHub daily, and build ML apps with Scikit-learn and Streamlit.
+
+I’m always learning, experimenting, and improving one project at a time.
+
+Tools I use:
+Java, Python, JavaScript,
+Spring Boot,
+MySQL, MongoDB,
+Git, GitHub, VS Code, Streamlit
+
+If you want to reach me:
+GitHub: you’re already here 🙂
+
+LinkedIn: https://www.linkedin.com/in/mohammed-faraz-a012a3363?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+Email: mohammedfaraz543@gmail.com
